@@ -24,6 +24,7 @@ body{
 	-moz-background-size: cover;
 	-o-background-size: cover;
 	background-size: cover;
+	opacity:1.0;
 }
 .headerLine:after{
 	content: "";
