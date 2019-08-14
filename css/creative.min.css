@@ -162,7 +162,16 @@ header.masthead {
     height: 100vh;
     min-height: 650px;
     padding-top: 0;
-    padding-bottom: 0
+    padding-bottom: 0;
+    position: absolute;
+    top: 0;
+    bottom: 0;
+    right: 0;
+    left: 0;
+    width: 100%;
+    background-image: linear-gradient(#ff9d2f, #ff6126);
+    transform: skewY(-36deg);
+    transform-origin: top left;
 }
 header.masthead h1 {
     font-size: 3rem
