@@ -8,55 +8,55 @@ body {
 hr {
     max-width: 50px;
     border-width: 3px;
-    border-color: #000046
+    border-color: #000046;
 }
 hr.light {
-    border-color: #fff
+    border-color: #fff;
 }
 a {
     color: #000046;
     -webkit-transition: all .2s;
     -moz-transition: all .2s;
-    transition: all .2s
+    transition: all .2s;
 }
 a:hover {
-    color: #000046
+    color: #000046;
 }
 h1, h2, h3, h4, h5, h6 {
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 .bg-primary {
-    background-color: #1225e2!important
+    background-color: #1225e2!important;
 }
 .bg-dark {
-    background-color: #007bff
+    background-color: #007bff;
 }
 .text-faded {
-    color: #fff
+    color: #fff;
 }
 section {
-    padding: 8rem 0
+    padding: 8rem 0;
 }
 .section-heading {
-    margin-top: 0
+    margin-top: 0;
 }
 ::-moz-selection {
 color:#fff;
 background:#212529;
-text-shadow:none
+text-shadow:none;
 }
 ::selection {
     color: #fff;
     background: #212529;
-    text-shadow: none
+    text-shadow: none;
 }
 img::selection {
     color: #fff;
-    background: 0 0
+    background: 0 0;
 }
 img::-moz-selection {
 color:#fff;
-background:0 0
+background:0 0;
 }
 #mainNav {
     border-bottom: 1px solid rgba(33,37,41,.1);
@@ -64,16 +64,16 @@ background:0 0
     font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
     -webkit-transition: all .2s;
     -moz-transition: all .2s;
-    transition: all .2s
+    transition: all .2s;
 }
 #mainNav .navbar-brand {
     font-weight: 700;
     text-transform: uppercase;
     color: #000046;
-    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif
+    font-family: 'Open Sans', 'Helvetica Neue', Arial, sans-serif;
 }
 #mainNav .navbar-brand:focus, #mainNav .navbar-brand:hover {
-    color: #000046
+    color: #000046;
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus {
     font-size: .9rem;
@@ -82,14 +82,14 @@ background:0 0
     color: #212529;
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover, #mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
-    color: #000046
+    color: #000046;
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active {
     color: #000046!important;
-    background-color: transparent
+    background-color: transparent;
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active:hover {
-    background-color: transparent
+    background-color: transparent;
 }
 
 .footer {
