@@ -79,7 +79,7 @@ background:0 0
     font-size: .9rem;
     font-weight: 700;
     text-transform: uppercase;
-    color: #212529
+    color: #212529;
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link:focus:hover, #mainNav .navbar-nav>li.nav-item>a.nav-link:hover {
     color: #000046
@@ -90,6 +90,11 @@ background:0 0
 }
 #mainNav .navbar-nav>li.nav-item>a.nav-link.active:hover, #mainNav .navbar-nav>li.nav-item>a.nav-link:focus.active:hover {
     background-color: transparent
+}
+
+.footer {
+    background-color: #212529;
+    font-size: 1rem;
 }
 
 @media (min-width:992px) {
