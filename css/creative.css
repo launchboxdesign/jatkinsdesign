@@ -127,6 +127,7 @@ img::-moz-selection {
 footer {
   display: block;
   background-color: #212529;
+  color: white;
 }
 .text-center {
   text-align: center !important;
@@ -136,11 +137,12 @@ footer {
   padding-top: 5rem;
   padding-bottom: 5rem;
   background-color: #212529;
-  color: #fff;
+  color: white;
 }
 
 .footer p {
   font-size: .75rem;
+  color: white;
 }
 
 @media (min-width: 992px) {
